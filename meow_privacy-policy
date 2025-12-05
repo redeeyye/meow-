@@ -1,0 +1,137 @@
+1. Introduction
+
+This Privacy Policy describes how this Discord bot (“the Bot”) collects, uses, and stores data.
+
+By using the Bot, you agree to the practices outlined here.
+
+2. Information We Collect
+a. User Data
+
+User ID
+
+Username & Discriminator
+
+Avatar URL (temporary usage)
+
+Permissions used for command execution
+
+b. Server (Guild) Data
+
+Server ID
+
+Channel & Role IDs
+
+Server configuration/settings
+
+Logs (only if enabled explicitly by the server staff)
+
+c. Interaction Data
+
+Slash commands
+
+Button/menu interactions
+
+Event triggers
+➡️ These are processed temporarily and not stored unless necessary for a feature.
+
+3. What We Do Not Collect
+
+❌ No message history
+❌ No DMs
+❌ No personal information
+❌ No IP addresses
+❌ No emails
+
+We respect user privacy and collect only what is essential for the Bot to operate.
+
+4. How We Use the Data
+
+Data is used for:
+
+Running bot features
+
+Saving server settings
+
+Moderation systems
+
+Logging (if enabled)
+
+Improving performance and stability
+
+Preventing abuse and detecting errors
+
+We never sell or share your data for advertising.
+
+5. Data Storage & Security
+
+Data is stored securely in a database or file system
+
+Only the developer(s) have access
+
+We use reasonable protection measures
+
+Data is kept only as long as needed for features to function
+
+6. Data Sharing
+
+We do not share your data with:
+
+Third parties
+
+Advertisers
+
+External services
+
+Data may be shared only if:
+
+Required by law
+
+Necessary to protect the Bot from abuse
+
+7. User Rights
+
+You have the right to:
+
+Request what data is stored
+
+Ask for data modification
+
+Request deletion of all your stored data
+
+Stop data collection by removing the Bot
+
+8. Data Deletion
+
+You may delete your data by:
+
+Using an in-bot delete/reset command (if available)
+
+Contacting the developer directly
+
+All data will be permanently removed.
+
+9. Third-Party Services
+
+The Bot interacts with:
+
+Discord API
+
+Hosting services (VPS, cloud, etc.)
+
+These services have their own privacy policies.
+
+10. Children’s Privacy
+
+The Bot is not intended for users under 13 years old, in compliance with Discord's Terms.
+
+We do not knowingly collect data from children.
+
+11. Changes to This Policy
+
+We may update this Privacy Policy at any time.
+Your continued use means you accept the updated terms.
+
+12. Contact
+
+If you have questions or requests related to your data:
+https://discord.gg/3zR5fhSm
